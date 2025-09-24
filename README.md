@@ -28,7 +28,8 @@ A responsive and functional Patient Records Dashboard built as an internship ass
 ) |
 
 **Patient Details Modal:**
-![Patient Details Modal](./screenshots/modal-view.png)
+![Patient Details Modal](<img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/071bf785-1693-4a04-8ac7-fef65e6c77dd" />
+)
 
 ---
 
