@@ -23,9 +23,7 @@ A responsive and functional Patient Records Dashboard built as an internship ass
 
 | Desktop View                                     | Mobile View                                    |
 | ------------------------------------------------ | ---------------------------------------------- |
-| <img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/99729ce9-91f2-47df-9de7-537cc471da24" />
-| <img width="464" height="903" alt="image" src="https://github.com/user-attachments/assets/f2d37dce-4195-4c56-9226-fc7101abef22" />
-|
+| <img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/99729ce9-91f2-47df-9de7-537cc471da24" /> | <img width="464" height="903" alt="image" src="https://github.com/user-attachments/assets/f2d37dce-4195-4c56-9226-fc7101abef22" /> |
 
 **Patient Details Modal:**
 ![Patient Details Modal] <img width="1919" height="1022" alt="image" src="https://github.com/user-attachments/assets/071bf785-1693-4a04-8ac7-fef65e6c77dd" />
