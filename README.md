@@ -3,6 +3,7 @@
 A responsive and functional Patient Records Dashboard built as an internship assignment. This single-page application allows users to view, search, and get details of patients, all within a clean and modern user interface.
 
 **[Live Demo Link] [https://jarurat-care-dashboard-two.vercel.app/]**
+**[Loom Video] [https://www.loom.com/share/0be7f0cc07ce4d418d23281ffcb83ecd?sid=a8a176d0-583b-47e9-bb59-a27da3c7eb38]**
 
 ---
 
