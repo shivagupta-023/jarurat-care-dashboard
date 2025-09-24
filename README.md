@@ -2,7 +2,7 @@
 
 A responsive and functional Patient Records Dashboard built as an internship assignment. This single-page application allows users to view, search, and get details of patients, all within a clean and modern user interface.
 
-**[Live Demo Link]([https://[YAHAN-APNA-VERCEL-LINK-DAALEIN].vercel.app](https://jarurat-care-dashboard-two.vercel.app/))**
+**[Live Demo Link] [https://jarurat-care-dashboard-two.vercel.app/]**
 
 ---
 
